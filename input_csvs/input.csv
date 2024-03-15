@@ -1,0 +1,4 @@
+description,amount,date,source,type,human_notes,business name,business type
+Groceries,$50.00,2023-06-01,BoA Credit Card ,Personal,During move from TX to CA,Personal,N/a
+Uber ride,$15.50,2023-06-02,BoA Credit Card ,business,Meeting with investor ,Semantic life,Single owner s corp Delaware 
+Netflix subscription,$12.99,2023-06-03,Capital One Credit Card,business,Interest payment,Indie,Single owner llc 
